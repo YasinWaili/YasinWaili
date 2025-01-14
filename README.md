@@ -7,9 +7,9 @@ A passionate student pursuing a Bachelor's degree in Computer Science with a min
 - 🌱 Currently in my 3rd year of Computer Science studies (2022-2026).
 - 💻 Experienced in **Python**, **SQL**, **C++**, **C**, **Java**, **JavaScript**, and **R**.
 - 🔧 Working on exciting projects, such as:
-  - **Boss Battle Game**: Integrated the Edamam API, enabling users to search for recipes by keyword or ingredient, with optimized API calls for seamless results. Developed a secure SQL database for storing user data and recipes, and implemented role-based access with a dynamic Express.js backend.
-  - **Music Streaming Web Application**: Built a web socket-based real-time chat application using Node.js and Socket.io, featuring private messaging and user authentication.
-  - **Stock Data Analysis Tool**: Designed UML diagrams and implemented object-oriented principles (e.g., encapsulation, inheritance) in C++ to create a well-documented system with Linked List data structures.
+  - **Boss Battle Game**: Designed and developed a 2D game featuring a player-versus-boss battle with dynamic projectile mechanics, custom game-ending conditions, and a custom Linked List data structure to manage projectiles efficiently.
+  - **Music Streaming Web Application**: Built a full-stack web application allowing users to create accounts, log in, and manage personalized playlists, with features like song search, playback, and a responsive user interface.
+  - **Stock Data Analysis Tool**: Created a web-based tool for real-time stock data analysis and price prediction, leveraging RESTful APIs, a Flask server, and machine learning models to provide users with insights and decision-making tools.
 - 🎨 Passionate about designing user-friendly interfaces and solving challenging problems.
 - 🌟 Excited to contribute to innovative projects in software development and system design.
 
