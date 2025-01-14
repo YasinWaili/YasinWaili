@@ -4,13 +4,12 @@ A passionate student pursuing a Bachelor's degree in Computer Science with a min
 ---
 
 ## 🚀 About Me:
-- 🌱 Currently in my 3rd year of Computer Science studies (2022-2027).
+- 🌱 Currently in my 3rd year of Computer Science studies (2022-2026).
 - 💻 Experienced in **Python**, **SQL**, **C++**, **C**, **Java**, **JavaScript**, and **R**.
 - 🔧 Working on exciting projects, such as:
-  - **Recipe Book Application**: Integrated the Edamam API, enabling users to search for recipes by keyword or ingredient, with optimized API calls for seamless results. Developed a secure SQL database for storing user data and recipes, and implemented role-based access with a dynamic Express.js backend.
-  - **Chat Server**: Built a web socket-based real-time chat application using Node.js and Socket.io, featuring private messaging and user authentication.
-  - **Garage Management System**: Designed UML diagrams and implemented object-oriented principles (e.g., encapsulation, inheritance) in C++ to create a well-documented system with Linked List data structures.
-  - **Multi-threaded Simulations**: Created efficient, thread-safe simulations in C, addressing potential race conditions in shared data environments.
+  - **Boss Battle Game**: Integrated the Edamam API, enabling users to search for recipes by keyword or ingredient, with optimized API calls for seamless results. Developed a secure SQL database for storing user data and recipes, and implemented role-based access with a dynamic Express.js backend.
+  - **Music Streaming Web Application**: Built a web socket-based real-time chat application using Node.js and Socket.io, featuring private messaging and user authentication.
+  - **Stock Data Analysis Tool**: Designed UML diagrams and implemented object-oriented principles (e.g., encapsulation, inheritance) in C++ to create a well-documented system with Linked List data structures.
 - 🎨 Passionate about designing user-friendly interfaces and solving challenging problems.
 - 🌟 Excited to contribute to innovative projects in software development and system design.
 
@@ -54,4 +53,3 @@ A passionate student pursuing a Bachelor's degree in Computer Science with a min
 
 ---
 
-![Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile!)
