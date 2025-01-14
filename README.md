@@ -47,7 +47,7 @@ A passionate student pursuing a Bachelor's degree in Computer Science with a min
   <a href="https://github.com/YasinWaili" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" alt="GitHub"/>
   </a>
-  <a href="mailto:iriantorendy1@gmail.com" target="_blank">
+  <a href="mailto:Yasin.w04@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" alt="Email"/>
   </a>
 </p>
