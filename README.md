@@ -40,7 +40,7 @@ A passionate student pursuing a Bachelor's degree in Computer Science with a min
 
 ## 📞 Connect with Me:
 <p align="left">
-  <a href="https://linkedin.com/in/YasinWaili" target="_blank">
+  <a href="https://linkedin.com/in/yasin-waili" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/YasinWaili" target="_blank">
