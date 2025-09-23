@@ -5,7 +5,7 @@ A passionate student pursuing a Bachelor's degree in Computer Science with a min
 
 ## 🚀 About Me:
 - 🌱 Currently in my 3rd year of Computer Science studies (2022-2027).
-- 💻 Experienced in **Python**, **SQL**, **C++**, **C**, **Java**, **JavaScript**, and **R**.
+- 💻 Experienced in **Python**, **C++**, **C#**, **C**, **Java**, **JavaScript**, **TypeScript**, **React**, **SQL**, and **R**.
 - 🔧 Working on exciting projects, such as:
   - **Boss Battle Game**: Designed and developed a 2D game featuring a player-versus-boss battle with dynamic projectile mechanics, custom game-ending conditions, and a custom Linked List data structure to manage projectiles efficiently.
   - **Music Streaming Web Application**: Built a full-stack web application allowing users to create accounts, log in, and manage personalized playlists, with features like song search, playback, and a responsive user interface.
