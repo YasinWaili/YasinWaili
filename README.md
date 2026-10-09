@@ -1,40 +1,44 @@
 # Hello 👋, I'm Yasin Waili
-A passionate student pursuing a Bachelor's degree in Computer Science with a minor in Statistics at Carleton University. I am dedicated to learning and contributing to innovative projects in software development and problem-solving.
+
+I'm a fourth-year Computer Science Honours student in the AI/ML stream at Carleton University, with a minor in Statistics and an expected graduation in 2027. I'm also an AI Software Developer at Ciena, working on AI agents and workflow automation.
 
 ---
 
-## 🚀 About Me:
-- 🌱 Currently in my 3rd year of Computer Science studies (2022-2027).
-- 💻 Experienced in **Python**, **C++**, **C#**, **C**, **Java**, **JavaScript**, **TypeScript**, **React**, **SQL**, and **R**.
-- 🔧 Working on exciting projects, such as:
-  - **Boss Battle Game**: Designed and developed a 2D game featuring a player-versus-boss battle with dynamic projectile mechanics, custom game-ending conditions, and a custom Linked List data structure to manage projectiles efficiently.
-  - **Music Streaming Web Application**: Built a full-stack web application allowing users to create accounts, log in, and manage personalized playlists, with features like song search, playback, and a responsive user interface.
-  - **Stock Data Analysis Tool**: Created a web-based tool for real-time stock data analysis and price prediction, leveraging RESTful APIs, a Flask server, and machine learning models to provide users with insights and decision-making tools.
-- 🎨 Passionate about designing user-friendly interfaces and solving challenging problems.
-- 🌟 Excited to contribute to innovative projects in software development and system design.
+## 🚀 About Me
+
+- 💼 At **Ciena**, I develop AI agents using Python, Google ADK, Model Context Protocol (MCP), and retrieval-augmented generation (RAG).
+- 🛠️ I build tools, MCP servers, and reusable agent skills, and improve agent workflows through better tool execution and context handling.
+- 🧠 My interests include reinforcement learning, applied machine learning, and AI systems that solve practical problems.
+- 💻 I enjoy building applications that connect models and backend services with clear, usable interfaces.
 
 ---
 
-## 🔧 Skills:
-<p align="left">
-  <img src="https://img.icons8.com/color/48/python.png" alt="Python" height="40"/>
-  <img src="https://img.icons8.com/color/48/sql.png" alt="SQL" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/statistics.png" alt="R" height="40"/>
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" height="40"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" height="40"/>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" height="40"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" height="40"/>
-  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML" height="40"/>
-</p>
+## 📂 Featured Projects
+
+### Reinforcement Learning for Tower Defense
+**Python · NumPy · Gymnasium · Pygame**
+
+Built a custom tower defense environment where an AI agent learns strategic tower placement under budget constraints. Implemented tabular Q-learning and Advantage Actor-Critic agents using temporal-difference updates, softmax policies, and tile-coded function approximation. Explored reward design and compared learning behavior through policy evaluations and training curves.
+
+### ML Stock Forecasting Tool
+**Python · scikit-learn · pandas · React · FastAPI · SQLite**
+
+Built a stock forecasting application using linear regression and random forest models. Engineered time-series features from historical market data and developed an interactive dashboard for stock search, charts, and forecasts, with background model training.
+
+### RaDoTech Health Simulator
+**C++ · Qt · Qt Charts**
+
+Developed a desktop application that simulates a health scanner, including user profiles, a 24-point scan workflow, input validation, and data normalization. Added dynamic charts and simulated recommendations based on Ryodoraku-based logic.
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YasinWaili&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasinWaili&theme=radical" alt="GitHub Streak"/>
-</p>
+## 🔧 Technical Skills
+
+- **Languages:** Python, Java, C, C++, C#, JavaScript, TypeScript, R, SQL, HTML/CSS
+- **AI & Machine Learning:** Google ADK, MCP, RAG, PyTorch, scikit-learn, NumPy, pandas, Gymnasium
+- **Frameworks & Libraries:** React, Node.js, FastAPI, Flask, Qt, Pygame
+- **Tools & Platforms:** Git, GitHub, Linux, Docker, Kubernetes, SQLite
+
 
 ---
 
